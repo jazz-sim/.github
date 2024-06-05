@@ -11,6 +11,7 @@
 * [@owong458](https://github.com/owong458)
 * [@AltheFlyer](https://github.com/AltheFlyer)
 * [@dpatki](https://github.com/dpatki)
+* [@Carolx715](https://github.com/Carolx715)
 
 *FYDP Kanban Board*:
 https://github.com/orgs/jazz-sim/projects/2
