@@ -3,7 +3,7 @@
 *Current Iteration + Project*: 4th year FYDP → CrochetCraft
 
 > [!NOTE]
-> [@MichaelLapshin](https://github.com/MichaelLapshin) now has ownership of the MP1/MP2 repos (project UniBar). Currently, the 4th year FYDP is a continuation of MP3.
+> [@MichaelLapshin](https://github.com/MichaelLapshin) now has ownership of the MP1/MP2 repos from SE 390 (project UniBar). Currently, the 4th year FYDP is a continuation of MP3.
 
 *FYDP Team Members*:
 * [@simcard0000](https://github.com/simcard0000)
